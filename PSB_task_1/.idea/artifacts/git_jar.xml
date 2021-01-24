@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="git:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/git_jar</output-path>
+    <root id="archive" name="git.jar">
+      <element id="module-output" name="git" />
+    </root>
+  </artifact>
+</component>
